@@ -1,5 +1,5 @@
 ---
-title : "Spotify Song Recommendation"
+title : "Spotify Song ML Model Recommendation"
 ---
   
 1) Data Acquisition
